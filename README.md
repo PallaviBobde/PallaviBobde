@@ -46,15 +46,11 @@ Energetic Front-End Developer with over 2 years of professional experience focus
 ## 📂 Have a look -
 ### Veberszone Website ([https://veberszone.com](https://veberszone.com))
 
-## 🔗 Links
-
+## 📞 Contact Information
 - **LinkedIn:** [Pallavi Bobde](https://www.linkedin.com/in/pallavi-bobde-35ba721b2)
 - **GitHub:** [PallaviBobde](https://github.com/PallaviBobde)
 - **Email:** [pallavibobde1@gmail.com](mailto:pallavibobde1@gmail.com)
-
-## 📞 Contact Information
 - **Phone:** 6263218624
-- **Email:** [pallavibobde1@gmail.com](mailto:pallavibobde1@gmail.com)
 - **Location:** Pune, Maharashtra
 
 ---
