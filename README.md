@@ -4,11 +4,6 @@
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/PallaviBobde)
 [![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:pallavibobde1@gmail.com)
 
-## 📞 Contact Information
-- **Phone:** 6263218624
-- **Email:** [pallavibobde1@gmail.com](mailto:pallavibobde1@gmail.com)
-- **Location:** Pune, Maharashtra
-
 ## 📜 Summary
 
 Energetic Front-End Developer with over 2 years of professional experience focusing on React-based applications. Proficient with JavaScript, TypeScript, and Git. Proven track record of building and optimizing web applications for the enterprise platform. Proven ability to integrate seamlessly into diverse teams. Looking forward to adding value through my passion and expertise.
@@ -63,6 +58,11 @@ Energetic Front-End Developer with over 2 years of professional experience focus
 - **LinkedIn:** [Pallavi Bobde](https://www.linkedin.com/in/pallavi-bobde-35ba721b2)
 - **GitHub:** [PallaviBobde](https://github.com/PallaviBobde)
 - **Email:** [pallavibobde1@gmail.com](mailto:pallavibobde1@gmail.com)
+
+## 📞 Contact Information
+- **Phone:** 6263218624
+- **Email:** [pallavibobde1@gmail.com](mailto:pallavibobde1@gmail.com)
+- **Location:** Pune, Maharashtra
 
 ---
 
