@@ -43,15 +43,8 @@ Energetic Front-End Developer with over 2 years of professional experience focus
 
 - **Web Development, Git and GitHub Ultimate Guide**
 
-## 📂 Projects
-
-### EMR Generation System | Bajaj Health
-- Developed a comprehensive Electronic Medical Records (EMR) system that streamlines patient data management for doctors.
-- **Technologies Used:** React, Redux, JavaScript, TypeScript, Material-UI
-
+## 📂 Have a look -
 ### Veberszone Website ([https://veberszone.com](https://veberszone.com))
-- Built a modern and responsive digital marketing agency website to showcase services and portfolio.
-- **Technologies Used:** React, Next.js, JavaScript, TypeScript
 
 ## 🔗 Links
 
