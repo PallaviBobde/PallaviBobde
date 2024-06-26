@@ -43,13 +43,14 @@ Energetic Front-End Developer with over 2 years of professional experience focus
 
 - **Web Development, Git and GitHub Ultimate Guide**
 
-## 📂 Have a look -
-### Video Meet [https://video-meet-iota.vercel.app/](https://video-meet-iota.vercel.app/)
-### MediaTube [https://youtube-dada.vercel.app/](https://youtube-dada.vercel.app/)
-### Veberszone Website [https://veberszone.com](https://veberszone.com)
-### My Awesome Portfolio [https://awesome-portfolio-pallavi.vercel.app/](https://veberszone.com](https://awesome-portfolio-pallavi.vercel.app/)
+## My Awesome Portfolio
+- [https://awesome-portfolio-pallavi.vercel.app/](https://veberszone.com](https://awesome-portfolio-pallavi.vercel.app/)
 
-
+## 📂 Have a look my projects -
+- Video Meet [https://video-meet-iota.vercel.app/](https://video-meet-iota.vercel.app/)
+- MediaTube [https://youtube-dada.vercel.app/](https://youtube-dada.vercel.app/)
+- Veberszone Website [https://veberszone.com](https://veberszone.com)
+  
 ## 📞 Contact Information
 - **LinkedIn:** [Pallavi Bobde](https://www.linkedin.com/in/pallavi-bobde-35ba721b2)
 - **GitHub:** [PallaviBobde](https://github.com/PallaviBobde)
