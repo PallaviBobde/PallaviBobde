@@ -55,7 +55,7 @@ Energetic Front-End Developer with over 2 years of professional experience focus
 - **LinkedIn:** [Pallavi Bobde](https://www.linkedin.com/in/pallavi-bobde-35ba721b2)
 - **GitHub:** [PallaviBobde](https://github.com/PallaviBobde)
 - **Email:** [pallavibobde1@gmail.com](mailto:pallavibobde1@gmail.com)
-- **Twitter** : [https://x.com/PallaviBobde](https://x.com/PallaviBobde))
+- **Twitter** : [https://x.com/PallaviBobde](https://x.com/PallaviBobde)
 - **Phone:** +91 6263218624
 - **Location:** Pune, Maharashtra
 
