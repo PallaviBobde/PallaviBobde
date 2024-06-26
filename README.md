@@ -44,7 +44,7 @@ Energetic Front-End Developer with over 2 years of professional experience focus
 - **Web Development, Git and GitHub Ultimate Guide**
 
 ## My Awesome Portfolio
-- [https://awesome-portfolio-pallavi.vercel.app/](https://veberszone.com](https://awesome-portfolio-pallavi.vercel.app/)
+- [https://awesome-portfolio-pallavi.vercel.app/](https://awesome-portfolio-pallavi.vercel.app/)
 
 ## 📂 Have a look my projects -
 - Video Meet [https://video-meet-iota.vercel.app/](https://video-meet-iota.vercel.app/)
