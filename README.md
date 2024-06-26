@@ -44,13 +44,18 @@ Energetic Front-End Developer with over 2 years of professional experience focus
 - **Web Development, Git and GitHub Ultimate Guide**
 
 ## 📂 Have a look -
-### Veberszone Website ([https://veberszone.com](https://veberszone.com))
+### Video Meet [https://video-meet-iota.vercel.app/](https://video-meet-iota.vercel.app/)
+### MediaTube [https://youtube-dada.vercel.app/](https://youtube-dada.vercel.app/)
+### Veberszone Website [https://veberszone.com](https://veberszone.com)
+### My Awesome Portfolio [https://awesome-portfolio-pallavi.vercel.app/](https://veberszone.com](https://awesome-portfolio-pallavi.vercel.app/)
+
 
 ## 📞 Contact Information
 - **LinkedIn:** [Pallavi Bobde](https://www.linkedin.com/in/pallavi-bobde-35ba721b2)
 - **GitHub:** [PallaviBobde](https://github.com/PallaviBobde)
 - **Email:** [pallavibobde1@gmail.com](mailto:pallavibobde1@gmail.com)
-- **Phone:** 6263218624
+- **Twitter** : [https://x.com/PallaviBobde](https://x.com/PallaviBobde))
+- **Phone:** +91 6263218624
 - **Location:** Pune, Maharashtra
 
 ---
