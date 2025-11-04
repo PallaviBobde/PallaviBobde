@@ -35,17 +35,20 @@ timelines, utilizing React Native and JavaScript.
 our clients here.
 
 ## Skills :
-- **Frontend:** React, React Native, Next.js, Tailwind, React Hooks, HTML5, CSS, Next.js
-- **Languages:** JavaScript, TypeScript, C++
-- **Tools:** Git, GitHub, Azure, Docker
-- **Software Development:** Agile methodologies, Software Development Life Cycle (SDLC)
+- Frontend Development: Next.js, React, React Native, JavaScript (ES6+), TypeScript,
+HTML5, CSS (including Flexbox, Bootstrap, Tailwind CSS),React Hooks, Redux, React
+Query, Jest, React Router
+- Backend Development & APIs: Node.js, Express.js, REST APIs, Docker, Appwrite.
+- Tools & Platforms: Git, GitHub, Azure, AWS (Amazon Web Services), Agile
+principle, Yarn, npm, Chrome DevTools, Visual Studio Code, Lighthouse
 
 ## Education :
-### University Institute of Technology | Bhopal, Madhya Pradesh
-- **B.Tech - Information Technology** | 05/2023
+- B.Tech - Information Technology | 07/2019 - 06/2023
+University Institute of Technology | Bhopal, Madhya Pradesh
 
 ## Certificates :
-- **Web Development, Git and GitHub Ultimate Guide**
+- Web Development
+- Git and GitHub Ultimate Guide**
 
 ## My Portfolio :
 - [https://pallavi-bobde.vercel.app/](https://pallavi-bobde.vercel.app/)
