@@ -44,7 +44,7 @@ principle, Yarn, npm, Chrome DevTools, Visual Studio Code, Lighthouse
 
 ## Education :
 - B.Tech - Information Technology | 07/2019 - 06/2023
-University Institute of Technology | Bhopal, Madhya Pradesh
+  University Institute of Technology | Bhopal, Madhya Pradesh
 
 ## Certificates :
 - Web Development
