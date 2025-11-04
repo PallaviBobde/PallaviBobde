@@ -7,7 +7,7 @@
 ## Summary
 As a dedicated Full-Stack Developer with over 3+ years of experience, I specialize in creating scalable and high-performance web and mobile applications. My expertise in the Next js, MERN stack (MongoDB, Express.js, React, Node.js) and React Native enables me to develop robust applications that deliver seamless user experiences. I am passionate about writing clean, maintainable code and optimizing applications for performance.
 
-## Experience
+## Experience :
 #### Software Developer | Pune, Maharashtra 09/2024 - Present
 - I lead a team dedicated to developing websites, mobile applications, and custom
 software solutions that enhance user experience and boost online sales.
@@ -34,28 +34,28 @@ timelines, utilizing React Native and JavaScript.
 - Created many responsive, mobile-friendly applications and high-quality softwares for
 our clients here.
 
-## Skills
+## Skills :
 - **Frontend:** React, React Native, Next.js, Tailwind, React Hooks, HTML5, CSS, Next.js
 - **Languages:** JavaScript, TypeScript, C++
 - **Tools:** Git, GitHub, Azure, Docker
 - **Software Development:** Agile methodologies, Software Development Life Cycle (SDLC)
 
-## Education
+## Education :
 ### University Institute of Technology | Bhopal, Madhya Pradesh
 - **B.Tech - Information Technology** | 05/2023
 
-## Certificates
+## Certificates :
 - **Web Development, Git and GitHub Ultimate Guide**
 
-## My Awesome Portfolio
-- [https://awesome-portfolio-pallavi.vercel.app/](https://pallavi-bobde.vercel.app/)
+## My Portfolio :
+- [https://pallavi-bobde.vercel.app/](https://pallavi-bobde.vercel.app/)
 
-## Have a look my projects -
+## My Projects :
 - Video Meet [https://video-meet-iota.vercel.app/](https://video-meet-iota.vercel.app/)
 - MediaTube [https://youtube-dada.vercel.app/](https://youtube-dada.vercel.app/)
 - Veberszone Website [https://veberszone.com](https://veberszone.com)
   
-## Contact Information
+## Contact :
 - **LinkedIn:** [Pallavi Bobde](https://www.linkedin.com/in/pallavi-bobde-35ba721b2)
 - **GitHub:** [PallaviBobde](https://github.com/PallaviBobde)
 - **Email:** [pallavibobde1@gmail.com](mailto:pallavibobde1@gmail.com)
