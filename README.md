@@ -1,57 +1,71 @@
-# 🌟 Pallavi Bobde - Front-End Developer 🌟
+# Pallavi Bobde - Front-End Developer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/pallavi-bobde-35ba721b2)
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/PallaviBobde)
 [![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:pallavibobde1@gmail.com)
 
-## 📜 Summary
+## Summary
 
-Energetic Front-End Developer with over 2 years of professional experience focusing on React-based applications. Proficient with JavaScript, TypeScript, and Git. Proven track record of building and optimizing web applications for the enterprise platform. Proven ability to integrate seamlessly into diverse teams. Looking forward to adding value through my passion and expertise.
+As a dedicated Full-Stack Developer with over 3+ years of experience, I specialize in creating scalable and high-performance web and mobile applications. My expertise in the Next js, MERN stack (MongoDB, Express.js, React, Node.js) and React Native enables me to develop robust applications that deliver seamless user experiences. I am passionate about writing clean, maintainable code and optimizing applications for performance.
 
-## 💼 Experience
+## Experience
 
-### Bajaj Finserv Health | Pune, Maharashtra
-#### Associate Software Developer | 07/2023 - Present
-- Contributed to frontend development with a primary focus on React-based applications.
-- Developed 5+ user-focused, innovative UI features, resulting in 15% improved user experience.
-- Troubleshot and maintained 3 company websites, ensuring fast and optimal performance.
-- Worked closely with the content team to optimize websites for accessibility and speed, increasing site traffic by 20%.
-- Developed and maintained Central State Management through Redux store leading to a 40% reduction in bugs.
-- Conducted code reviews, improving code quality and consistency across the team.
+### Software Developer |  09/2024 - Present
+#### Veberszone | Pune, Maharashtra
+- I lead a team dedicated to developing websites, mobile applications, and custom
+software solutions that enhance user experience and boost online sales.
+- Our focus is on helping businesses streamline their processes through innovative
+software solutions, thereby increasing productivity.
 
-### Bajaj Finserv Health | Pune, Maharashtra
-#### Software Developer Intern | 08/2022 - 06/2023
-- Responsible for designing and maintaining company's web properties.
-- Implemented React Hooks in 2 projects, enhancing code reusability and efficiency.
-- Utilized Git for version control across all projects, ensuring seamless team collaboration.
-- Identified and fixed 120+ issues in web properties, improving website usability.
-- Assisted in troubleshooting and improving existing code, improving software quality by 20%.
 
-## 🛠️ Skills
+### Software Developer |  07/2023 - 08/2024
+#### Bajaj Finserv Health | Pune, Maharashtra
+- At Bajaj Finserv Health, I contributed to the development of the Labs App and
+Website, focusing on enhancing app performance and improving user experience,
+resulting in a 30% reduction in codebase size.
+- I participated in full solutioning and code reviews, offering constructive feedback,
+and was actively involved in sprint planning and daily meetings.
+- Additionally, I worked on the Bajaj Health for Doctors and Bajaj Health for Hospitals
+applications, further refining my skills in Next.js and React Native.
 
-- **Frontend:** React, React Hooks, React Native, HTML5, CSS, Next.js, Tailwind
+### Software Developer Intern | 08/2022 - 06-2023
+#### Bajaj Finserv Health | Pune, Maharashtra
+- Selected among the Top 12 interns, I developed and maintained the DoctorRx React
+Native application for iOS and Android platforms.
+- Collaborated with project managers to deliver significant features within tight
+timelines, utilizing React Native and JavaScript.
+
+### Website Developer Intern | 06/2021 - 07/2022
+#### Jiva Crafts | Remote
+- Developed websites using React.js and Node.js for Jiva Crafts.
+- Created many responsive, mobile-friendly applications and high-quality softwares for
+our clients here.
+
+## Skills
+
+- **Frontend:** React, React Native, Next.js, Tailwind, React Hooks, HTML5, CSS, Next.js
 - **Languages:** JavaScript, TypeScript, C++
 - **Tools:** Git, GitHub, Azure, Docker
 - **Software Development:** Agile methodologies, Software Development Life Cycle (SDLC)
 
-## 🎓 Education
+## Education
 
 ### University Institute of Technology | Bhopal, Madhya Pradesh
 - **B.Tech - Information Technology** | 05/2023
 
-## 🎖️ Certificates
+## Certificates
 
 - **Web Development, Git and GitHub Ultimate Guide**
 
 ## My Awesome Portfolio
 - [https://awesome-portfolio-pallavi.vercel.app/](https://pallavi-bobde.vercel.app/)
 
-## 📂 Have a look my projects -
+## Have a look my projects -
 - Video Meet [https://video-meet-iota.vercel.app/](https://video-meet-iota.vercel.app/)
 - MediaTube [https://youtube-dada.vercel.app/](https://youtube-dada.vercel.app/)
 - Veberszone Website [https://veberszone.com](https://veberszone.com)
   
-## 📞 Contact Information
+## Contact Information
 - **LinkedIn:** [Pallavi Bobde](https://www.linkedin.com/in/pallavi-bobde-35ba721b2)
 - **GitHub:** [PallaviBobde](https://github.com/PallaviBobde)
 - **Email:** [pallavibobde1@gmail.com](mailto:pallavibobde1@gmail.com)
